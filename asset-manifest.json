@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BBC_NewsFeedApp/static/css/main.3d3c7dd5.chunk.css",
+    "main.js": "/BBC_NewsFeedApp/static/js/main.75a65ad1.chunk.js",
+    "main.js.map": "/BBC_NewsFeedApp/static/js/main.75a65ad1.chunk.js.map",
+    "runtime-main.js": "/BBC_NewsFeedApp/static/js/runtime-main.129df817.js",
+    "runtime-main.js.map": "/BBC_NewsFeedApp/static/js/runtime-main.129df817.js.map",
+    "static/js/2.46fa73bb.chunk.js": "/BBC_NewsFeedApp/static/js/2.46fa73bb.chunk.js",
+    "static/js/2.46fa73bb.chunk.js.map": "/BBC_NewsFeedApp/static/js/2.46fa73bb.chunk.js.map",
+    "index.html": "/BBC_NewsFeedApp/index.html",
+    "precache-manifest.c843029b8069612db62b9407f6171d1f.js": "/BBC_NewsFeedApp/precache-manifest.c843029b8069612db62b9407f6171d1f.js",
+    "service-worker.js": "/BBC_NewsFeedApp/service-worker.js",
+    "static/css/main.3d3c7dd5.chunk.css.map": "/BBC_NewsFeedApp/static/css/main.3d3c7dd5.chunk.css.map",
+    "static/js/2.46fa73bb.chunk.js.LICENSE": "/BBC_NewsFeedApp/static/js/2.46fa73bb.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.129df817.js",
+    "static/js/2.46fa73bb.chunk.js",
+    "static/css/main.3d3c7dd5.chunk.css",
+    "static/js/main.75a65ad1.chunk.js"
+  ]
+}
